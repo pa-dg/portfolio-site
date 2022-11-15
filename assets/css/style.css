@@ -786,7 +786,7 @@ body {
 
 .port-desc:before {
 	position: absolute;
-	background-color: #fff;
+	background-color: rgba(255, 255, 255, 0.804);
 	top: 10px;
 	bottom: 10px;
 	left: 10px;
@@ -816,6 +816,17 @@ body {
 	justify-content: center;
 	opacity: 0;
 	padding: 0 30px;
+}
+
+.port-desc h4 {
+	letter-spacing: 1.25px;
+	font-size: 24px;
+}
+
+.port-desc h5 {
+	/* letter-spacing: 1.15px; */
+	line-height: 1.2em;
+	font-size: 16px;
 }
 
 .port-desc h3 {
