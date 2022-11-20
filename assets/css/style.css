@@ -643,7 +643,7 @@ body {
 
 #skills {
 	padding: 95px 0 50px;
-	background: #f2f2f2;
+	background: #fff;
 }
 
 #skills h2 {
@@ -701,7 +701,7 @@ body {
 
 #portfolio {
 	padding: 90px 0 80px;
-	background: #fff;
+	background: #f2f2f2;
 }
 
 #port-image .mix {
